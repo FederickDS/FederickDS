@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+I'm Federico Di Stefano, a Computer Engineering graduate from [Tor Vergata University](https://web.uniroma2.it/), based in Rome, Italy. I'm looking forward to start my Cybersecurity master in 2025.
 <!--
 **FederickDS/FederickDS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
